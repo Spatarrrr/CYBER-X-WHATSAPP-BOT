@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;dA0EBJ6b#bl10lFPISyZpcBv0H7nYJx60zK7y0LoLxX660yNPOHs",
             "required": true,
             "value": ""
         },
